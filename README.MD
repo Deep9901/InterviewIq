@@ -18,7 +18,7 @@
 
 </div>
 
-![alt text](frontend/public/image.png)
+![alt text](./frontend/public/image.png)
 ---
 
 ## 🏗️ Project Architecture
